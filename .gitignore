@@ -27,6 +27,7 @@ MANIFEST
 Procfile
 daraja/aws/conf.py
 mpesa/
+Daraja\src\daraja\settings\__init__.py
 
 
 # PyInstaller
